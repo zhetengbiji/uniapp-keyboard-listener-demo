@@ -1,0 +1,15 @@
+{
+  "name": "uniapp-keyboard-listener",
+  "version": "0.0.1",
+  "description": "uni-app 全局键盘事件监听。",
+  "main": "src/keyboard-listener.vue",
+  "directories": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
