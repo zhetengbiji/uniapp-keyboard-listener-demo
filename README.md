@@ -56,4 +56,4 @@ export default {
 ## 提示
 
 * 移动端软键盘无法判断具体按键（仅可判断 Enter 等）
-* 示例代码：[uniapp-keyboard-listener-demo](https://github.com/zhetengbiji/uniapp-keyboard-listener/test/uniapp-keyboard-listener-demo)
+* 示例工程 [uniapp-keyboard-listener-demo](https://github.com/zhetengbiji/uniapp-keyboard-listener-demo/tree/master/test/uniapp-keyboard-listener-demo) 需要先安装 NPM 依赖。
