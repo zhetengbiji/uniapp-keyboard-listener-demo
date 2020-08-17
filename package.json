@@ -1,6 +1,6 @@
 {
   "name": "uniapp-keyboard-listener",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "uni-app 全局键盘事件监听。",
   "main": "src/keyboard-listener.vue",
   "directories": {
