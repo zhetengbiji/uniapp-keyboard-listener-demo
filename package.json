@@ -1,7 +1,7 @@
 {
   "name": "uniapp-keyboard-listener",
-  "version": "1.0.0",
-  "description": "uni-app 全局键盘事件监听。",
+  "version": "1.0.1",
+  "description": "uni-app 全局按键事件监听",
   "main": "src/keyboard-listener.vue",
   "directories": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "键盘",
+    "按键",
+    "扫描",
+    "扫码",
+    "keyboard",
+    "keydown",
+    "keyup"
+  ],
   "author": "",
   "license": "ISC"
 }
