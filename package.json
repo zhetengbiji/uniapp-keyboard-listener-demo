@@ -1,13 +1,14 @@
 {
   "name": "uniapp-keyboard-listener",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "uni-app 全局按键事件监听",
   "main": "src/keyboard-listener.vue",
-  "directories": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhetengbiji/uniapp-keyboard-listener-demo.git"
   },
   "keywords": [
     "键盘",
@@ -19,5 +20,9 @@
     "keyup"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhetengbiji/uniapp-keyboard-listener-demo/issues"
+  },
+  "homepage": "https://github.com/zhetengbiji/uniapp-keyboard-listener-demo#readme"
 }

@@ -13,7 +13,7 @@ npm i uniapp-keyboard-listener --save
 ```
 
 ```js
-import keyboardListener from 'image-tools'
+import keyboardListener from 'uniapp-keyboard-listener'
 export default {
   components: {
     keyboardListener
