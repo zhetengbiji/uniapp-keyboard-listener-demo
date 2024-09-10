@@ -27,11 +27,17 @@ export default {
     names.forEach(name => {
       document.addEventListener(name, onKey, false)
     })
-    this.$on('hook:beforeDestroy', () => {
+    this._hook_beforeDestroy = () => {
       names.forEach(name => {
         document.removeEventListener(name, onKey, false)
       })
-    })
+    }
+  },
+  beforeDestroy () {
+    this._hook_beforeDestroy()
+  },
+  beforeUnmount () {
+    this._hook_beforeDestroy()
   }
 }
 </script>
